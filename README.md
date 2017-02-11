@@ -7,9 +7,11 @@ You can reach me at itsmeprazy@gmail.com
 
 
 <h3> How can you make this better? </h3>
-- Adding Time Complexity, Space Complexity and Algorithm Steps as comments at the top (I have added these comments for many source files)
-- Debug the code and contribute Base Cases if missed
-- Moving the files to appropriate folders if the movement makes sense
+- Debug the code and contribute Base Cases that are missing
+- Add Time Complexity, Space Complexity and Algorithm Steps as comments at the top 
+  (I have added comments for many source files)
+- Move the files to appropriate folders if the movement makes sense
+- Contribute JAVA solutions if you are interested
 
 
 
