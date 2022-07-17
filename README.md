@@ -9,7 +9,7 @@ You can reach me at itsmeprazy@gmail.com
 <h3> How can you make this better? </h3>
 #1 - Debug the code and contribute Base Cases that are missing <br/>
 #2 - Add Time Complexity, Space Complexity and Algorithm Steps as comments at the top <br/>
-     (I have added comments for many source files)
+     (I have added comments for many source files) <br/>
 #3 - Move the files to appropriate folders if the movement makes sense <br/>
 #4 - Contribute JAVA solutions if you are interested <br/>
 
