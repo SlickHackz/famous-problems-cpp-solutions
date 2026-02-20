@@ -3,7 +3,6 @@
 <h2> Lets make this Repository better! </h2>
 Hello.. I have added the C++ solutions for famous Data Structures and Algorithms problems. <br/>
 I need your help to make this Repository better! <br/>
-You can reach me at itsmeprazy@gmail.com
 
 
 <h3> How can you make this better? </h3>
